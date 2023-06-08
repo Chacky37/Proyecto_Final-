@@ -1,0 +1,60 @@
+-----------------------------------------------
+------------------ SYSTEM -------------------
+
+CREATE TABLESPACE DATOS2 DATAFILE 'C:\app\ANDRES\product\18.0.0\oradata\XE\XEPDB1\DATOS2.Ora' SIZE 30M;
+
+CREATE USER Usuario1 IDENTIFIED BY juan1234 DEFAULT TABLESPACE DATOS2 TEMPORARY TABLESPACE Temp QUOTA UNLIMITED ON DATOS2;
+
+GRANT ALL PRIVILEGES TO Usuario1
+
+-----------------------------------------------
+------------------ USUARIO1 -------------------
+
+CREATE TABLE PACIENTE (Id INT,
+    PrimerNombre VARCHAR(15),
+    SegundoNombre VARCHAR(15),
+    PrimerApellido VARCHAR(15),
+    SegundoApellido VARCHAR(15),
+    Telefono VARCHAR(15),
+    Correo VARCHAR(15),
+    FechaNacimiento DATE,
+    Nacionalidad VARCHAR(15),
+    Eps VARCHAR(15),
+    Direccion VARCHAR(15),
+    Sexo VARCHAR(15),
+    TipoSangre VARCHAR(15));
+    
+    CREATE TABLE Medico (Id INT,
+    PrimerNombre VARCHAR(15),
+    SegundoNombre VARCHAR(15),
+    PrimerApellido VARCHAR(15),
+    SegundoApellido VARCHAR(15),
+    Telefono VARCHAR(15),
+    Correo VARCHAR(15),
+    FechaNacimiento DATE,
+    Nacionalidad VARCHAR(15),
+    AniosExpe INT);
+    
+    CREATE TABLE Consulta (Id INT,
+    PrimerNombre VARCHAR(15),
+    SegundoNombre VARCHAR(15),
+    PrimerApellido VARCHAR(15),
+    SegundoApellido VARCHAR(15),
+    Telefono VARCHAR(15),
+    Correo VARCHAR(15),
+    FechaNacimiento DATE,
+    Nacionalidad VARCHAR(15),
+    IdDescripcion INT,
+    ValoracionMedica VARCHAR(255),
+    FechaValoracion DATE,
+    Medicamentos VARCHAR(255));
+
+CREATE TABLE Especialidad (
+    Id INT,
+    Nombre VARCHAR(15));
+    
+ALTER TABLE Paciente ADD CONSTRAINT pk_Paciente_Id  Primary Key (Id);    
+ALTER TABLE Medico ADD CONSTRAINT pk_Medico_Id  Primary Key (Id);    
+    
+ALTER TABLE Consulta ADD CONSTRAINT fk_Consulta_Id Foreign key(Id) References PACIENTE(Id); 
+ALTER TABLE Especialidad ADD CONSTRAINT fk_Especialidad_Id Foreign key(Id) References Medico(Id);
