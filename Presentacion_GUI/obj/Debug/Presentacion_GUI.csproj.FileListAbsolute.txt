@@ -1,0 +1,71 @@
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe.config
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Presentacion_GUI.pdb
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Entidades.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Logica.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\BaseDeDatos.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Text.Json.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Memory.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Buffers.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Entidades.pdb
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Logica.pdb
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Logica.dll.config
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\BaseDeDatos.pdb
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\BaseDeDatos.dll.config
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Text.Json.xml
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Memory.xml
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Buffers.xml
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.AssemblyReference.cache
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.Form1.resources
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FormListadoGeneralcs.resources
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmCita.resources
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmConsulta.resources
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmMedico.resources
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmPrincipal.resources
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmRegistroUsuario.resources
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.Properties.Resources.resources
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.GenerateResource.cache
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CopyComplete
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.exe
+C:\Users\COMPUMAX\Music\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.pdb
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.AssemblyReference.cache
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.Depart_Trans.resources
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.Form1.resources
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FormListadoGeneralcs.resources
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmConsulta.resources
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmMedico.resources
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmPrincipal.resources
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmRegistroUsuario.resources
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.Properties.Resources.resources
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.GenerateResource.cache
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.exe
+C:\Users\Comercio265601\Downloads\Consultorio-master\Presentacion_GUI\obj\Debug\Presentacion_GUI.pdb
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.AssemblyReference.cache
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.Form1.resources
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.FormListadoGeneralcs.resources
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmConsulta.resources
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmMedico.resources
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmPrincipal.resources
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.Properties.Resources.resources
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.GenerateResource.cache
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.exe
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Presentacion_GUI\obj\Debug\Presentacion_GUI.pdb
