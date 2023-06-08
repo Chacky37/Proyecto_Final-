@@ -1,0 +1,16 @@
+C:\Users\COMPUMAX\Music\Consultorio-master\Entidades\bin\Debug\Entidades.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Entidades\bin\Debug\Entidades.pdb
+C:\Users\COMPUMAX\Music\Consultorio-master\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\COMPUMAX\Music\Consultorio-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMAX\Music\Consultorio-master\Entidades\obj\Debug\Entidades.dll
+C:\Users\COMPUMAX\Music\Consultorio-master\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Comercio265601\Downloads\Consultorio-master\Entidades\bin\Debug\Entidades.dll
+C:\Users\Comercio265601\Downloads\Consultorio-master\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Comercio265601\Downloads\Consultorio-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Comercio265601\Downloads\Consultorio-master\Entidades\obj\Debug\Entidades.dll
+C:\Users\Comercio265601\Downloads\Consultorio-master\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Entidades\bin\Debug\Entidades.dll
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Entidades\obj\Debug\Entidades.dll
+C:\Users\Virtualteca258066\Downloads\Nueva carpeta\San-Fernando\Entidades\obj\Debug\Entidades.pdb
